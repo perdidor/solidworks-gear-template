@@ -1,7 +1,7 @@
 # solidworks-gear-template
 created and tested with Solidworks 2018
 
-Straight-tooth gear template with TRUE involute tooth profile. This is not the shit from Youtube, in which the tooth profile is built using a circular arc. Only two parameters needed to generate new gear: module (1/pitch in USA) and/or teeth quantity (see screenshot below).
+Straight-tooth gear template with TRUE involute tooth profile. This is not the scrap from Youtube, in which the tooth profile is built using a circular arc. Only two parameters needed to generate new gear: module (1/pitch in USA) and/or teeth quantity (see screenshot below).
 
 Шаблон для проектирования прямозубого зубчатого колеса с истинным эвольвентным профилем зуба. Это не то говно из Youtube, в котором профиль зуба строится с помощью дуги окружности. Для генерации новой шестерни требуется изменить только два параметра: модуль и/или число зубьев (см. скриншот ниже).
 
